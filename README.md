@@ -33,9 +33,15 @@ A high-speed, multi-threaded multi-tool for checking rare 4-character and 4-lett
 
 ## 🛠️ Installation
 
+## FOR INSTALLING U NEED HAVE PYTHON 3.11+ 
+https://www.python.org/downloads/release/python-3110/
+
 ### Option 1: Running from Source (Python)
 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/YOUR_USERNAME/BLUE-MOON-Sniper.git
    cd BLUE-MOON-Sniper
+2. **Run build file:**
+  ```bash
+  build.bat
