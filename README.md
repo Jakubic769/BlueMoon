@@ -39,9 +39,9 @@ https://www.python.org/downloads/release/python-3110/
 ### Option 1: Running from Source (Python)
 
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/BLUE-MOON-Sniper.git
-   cd BLUE-MOON-Sniper
+    ```bash
+    git clone https://github.com/YOUR_USERNAME/BLUE-MOON-Sniper.git
+    cd BLUE-MOON-Sniper
 2. **Run build file:**
-  ```bash
-  build.bat
+    ```bash
+    build.bat
