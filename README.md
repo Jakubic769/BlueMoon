@@ -23,7 +23,7 @@ It is highly recommended to run this tool with an active VPN for an extra layer 
 Option 1: Running from Source (Python)
 
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/BLUE-MOON-Sniper.git
+git clone https://github.com/jakubic769/BLUE-MOON-Sniper.git
 cd BLUE-MOON-Sniper
 
 Install dependencies:
