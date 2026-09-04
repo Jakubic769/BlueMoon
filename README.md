@@ -59,7 +59,7 @@ A high-performance, multi-threaded tool for checking rare **4-character** and **
 
 ### Prerequisites
 
-- **Python 3.8+** (for source execution)
+- **Python 3.11+** (for source execution)
 - **Git** (for cloning)
 
 ---
