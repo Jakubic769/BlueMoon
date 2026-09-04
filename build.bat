@@ -23,7 +23,7 @@ pyinstaller --onefile --console --name "BLUE_MOON_Sniper" blue_moon_sniper.py
 
 echo.
 echo  ╔════════════════════════════════════════════════╗
-echo  ║  ✅ BUILD COMPLETE!                            ║
+echo  ║  ✅ BUILD READY TO USE!                            ║
 echo  ║  📂 EXE Location: dist\BLUE_MOON_Sniper.exe   ║
 echo  ╚════════════════════════════════════════════════╝
 echo.
